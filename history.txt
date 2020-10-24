@@ -1,0 +1,330 @@
+
+    1  git
+    2  exit
+    3  git config --list
+    4  git config --global user.name "fabiogrod"
+    5  git config --global user.email "fabiogrimello@gmail.com"
+    6  git config --list
+    7  git init
+    8  git remote add origin https://github.com/fabiogrod/estudos
+    9  git remote remove origin https://github.com/fabiogrod/estudos
+   10  git remote remove https://github.com/fabiogrod/estudos
+   11  git 
+   12  git remote add origin https://github.com/fabiogrod/estudos.git
+   13  git status
+   14  git remote remove https://github.com/fabiogrod/estudos
+   15  git remote add origin https://github.com/fabiogrod/estudos.git
+   16  git init
+   17  git remote add origin https://github.com/fabiogrod/estudos.git
+   18  git init
+   19  git remote add origin https://github.com/fabiogrod/estudos.git
+   20  git pull origin master
+   21  git branch
+   22  git branch master
+   23  git branch -vv
+   24  git pull origin master
+   25  git init
+   26  git remote add origin https://github.com/fabiogrod/estudos.git
+   27  git pull origin master
+   28  git remote add origin https://github.com/fabiogrod/estudos.git
+   29  git pull origin master
+   30  git checkout -b master
+   31  git pull origin master
+   32  git pull origin master
+   33  git status
+   34  git config --list
+   35  git init
+   36  git remote add origin https://github.com/fabiogrod/estudos.git
+   37  git pull origin master
+   38  git ls-remote
+   39  git branch -a
+   40  git pull origin master
+   41  git branch -vv
+   42  git config user.name
+   43  git config user.email
+   44  git remote add origin https://github.com/fabiogrod/estudos.git
+   45  git remote add origin https://github.com/fabiogrod/estudos
+   46  git status
+   47  git remote -v
+   48  git push origin --delete
+   49  git push origin --delete estudos
+   50  git checkout master
+   51  git checkout estudos
+   52  git add TEST
+   53  git add TEST
+   54  git add TESTE
+   55  git commit -m 'Teste de envio'
+   56  git status
+   57  git add .
+   58  git commit -m 'Teste de add'
+   59  git status
+   60  git diff --staged
+   61  git diff
+   62  git remote show origin
+   63  git fetch origin
+   64  git push -u origin master
+   65  git push -u origin master
+   66  git push origin --delete master
+   67  git pull origin master main
+   68  git pull origin main
+   69  git status
+   70  git pull
+   71  git remove rm master
+   72  git remote rm master
+   73  git remot -v
+   74  git remote -v
+   75  git origin -v
+   76  git pull origin main
+   77  git init
+   78  git add remote add origin https://github.com/fabiogrod/estudos.git
+   79  git remote add origin https://github.com/fabiogrod/estudos.git
+   80  git pull origin main
+   81  git status
+   82  git add .
+   83  git commit "Primeiro envio completo"
+   84  git commit -m "Primeiro envio completo"
+   85  git push -u origin main
+   86  git pull origin main
+   87  git push origin main
+   88  git show-ref
+   89  git push origin HEAD
+   90  exit
+   91  git show-ref
+   92  git pull origin master
+   93  git branch master
+   94  git status
+   95  git add .
+   96  git commit - m "Segundo envio completo"
+   97  git commit -m "Segundo envio completo"
+   98  git push -u origin master
+   99  git config --list
+  100  git clone https://github.com/fabiogrod/estudos
+  101  git clone https://github.com/fabiogrod/estudos.git
+  102  show status
+  103  git show status
+  104  git status -s
+  105  git clone https://github.com/fabiogrod/estudos.git:master
+  106  git clone https://github.com/fabiogrod/estudos:master
+  107  git clone -b master https://github.com/fabiogrod/estudos.git
+  108  git clone -b master https://github.com/fabiogrod/estudos.git
+  109  git clone -b master https://github.com/fabiogrod/estudos.git /
+  110  git clone -b master https://github.com/fabiogrod/estudos.git ./
+  111  git clone -b master https://github.com/fabiogrod/estudos.git ./curso_git
+  112  git clone -b master https://github.com/fabiogrod/estudos.git ../curso_git
+  113  git clone -b master https://github.com/fabiogrod/estudos.git
+  114  mv /estudos *.* ./
+  115* 
+  116  git clone -b master https://github.com/fabiogrod/estudos.git ./
+  117  git clone -b master https://github.com/fabiogrod/estudos.git .
+  118  GIT FETCH
+  119  get fetch
+  120  git fetch
+  121  git checkout - t origin/master
+  122  git checkout -t origin/master
+  123  git checkout -t master
+  124  git checkout -t origin master
+  125  git checkout -b master
+  126  git checkout master
+  127  git clone -b master https://github.com/fabiogrod/estudos.git
+  128  git clone -C . master https://github.com/fabiogrod/estudos.git
+  129  git clone -C . master https://github.com/fabiogrod/estudos.git
+  130  git clone -Cb . master https://github.com/fabiogrod/estudos.git
+  131  git pull
+  132  git remote rm master
+  133  git remote rm master
+  134  history
+  135  git remote rm -b master
+  136  git remote remove master
+  137  git remote remove -b master
+  138  git checkout
+  139* 
+  140  git bracn -vv
+  141  git brach -vv
+  142  git branch -vv
+  143  git branch -vvse IPv6 addresses only
+  144      --filter <args>       object filtering
+  145      --remote-submodules   any cloned submodules will use their remote-tracking branch
+  146      --sparse              initialize sparse-checkout file to include only files at root
+  147  echo history
+  148  echo > history
+  149  history
+  150  history >> history.txt 
+    1  git
+    2  exit
+    3  git config --list
+    4  git config --global user.name "fabiogrod"
+    5  git config --global user.email "fabiogrimello@gmail.com"
+    6  git config --list
+    7  git init
+    8  git remote add origin https://github.com/fabiogrod/estudos
+    9  git remote remove origin https://github.com/fabiogrod/estudos
+   10  git remote remove https://github.com/fabiogrod/estudos
+   11  git 
+   12  git remote add origin https://github.com/fabiogrod/estudos.git
+   13  git status
+   14  git remote remove https://github.com/fabiogrod/estudos
+   15  git remote add origin https://github.com/fabiogrod/estudos.git
+   16  git init
+   17  git remote add origin https://github.com/fabiogrod/estudos.git
+   18  git init
+   19  git remote add origin https://github.com/fabiogrod/estudos.git
+   20  git pull origin master
+   21  git branch
+   22  git branch master
+   23  git branch -vv
+   24  git pull origin master
+   25  git init
+   26  git remote add origin https://github.com/fabiogrod/estudos.git
+   27  git pull origin master
+   28  git remote add origin https://github.com/fabiogrod/estudos.git
+   29  git pull origin master
+   30  git checkout -b master
+   31  git pull origin master
+   32  git pull origin master
+   33  git status
+   34  git config --list
+   35  git init
+   36  git remote add origin https://github.com/fabiogrod/estudos.git
+   37  git pull origin master
+   38  git ls-remote
+   39  git branch -a
+   40  git pull origin master
+   41  git branch -vv
+   42  git config user.name
+   43  git config user.email
+   44  git remote add origin https://github.com/fabiogrod/estudos.git
+   45  git remote add origin https://github.com/fabiogrod/estudos
+   46  git status
+   47  git remote -v
+   48  git push origin --delete
+   49  git push origin --delete estudos
+   50  git checkout master
+   51  git checkout estudos
+   52  git add TEST
+   53  git add TEST
+   54  git add TESTE
+   55  git commit -m 'Teste de envio'
+   56  git status
+   57  git add .
+   58  git commit -m 'Teste de add'
+   59  git status
+   60  git diff --staged
+   61  git diff
+   62  git remote show origin
+   63  git fetch origin
+   64  git push -u origin master
+   65  git push -u origin master
+   66  git push origin --delete master
+   67  git pull origin master main
+   68  git pull origin main
+   69  git status
+   70  git pull
+   71  git remove rm master
+   72  git remote rm master
+   73  git remot -v
+   74  git remote -v
+   75  git origin -v
+   76  git pull origin main
+   77  git init
+   78  git add remote add origin https://github.com/fabiogrod/estudos.git
+   79  git remote add origin https://github.com/fabiogrod/estudos.git
+   80  git pull origin main
+   81  git status
+   82  git add .
+   83  git commit "Primeiro envio completo"
+   84  git commit -m "Primeiro envio completo"
+   85  git push -u origin main
+   86  git pull origin main
+   87  git push origin main
+   88  git show-ref
+   89  git push origin HEAD
+   90  exit
+   91  git show-ref
+   92  git pull origin master
+   93  git branch master
+   94  git status
+   95  git add .
+   96  git commit - m "Segundo envio completo"
+   97  git commit -m "Segundo envio completo"
+   98  git push -u origin master
+   99  git config --list
+  100  git clone https://github.com/fabiogrod/estudos
+  101  git clone https://github.com/fabiogrod/estudos.git
+  102  show status
+  103  git show status
+  104  git status -s
+  105  git clone https://github.com/fabiogrod/estudos.git:master
+  106  git clone https://github.com/fabiogrod/estudos:master
+  107  git clone -b master https://github.com/fabiogrod/estudos.git
+  108  git clone -b master https://github.com/fabiogrod/estudos.git
+  109  git clone -b master https://github.com/fabiogrod/estudos.git /
+  110  git clone -b master https://github.com/fabiogrod/estudos.git ./
+  111  git clone -b master https://github.com/fabiogrod/estudos.git ./curso_git
+  112  git clone -b master https://github.com/fabiogrod/estudos.git ../curso_git
+  113  git clone -b master https://github.com/fabiogrod/estudos.git
+  114  mv /estudos *.* ./
+  115* 
+  116  git clone -b master https://github.com/fabiogrod/estudos.git ./
+  117  git clone -b master https://github.com/fabiogrod/estudos.git .
+  118  GIT FETCH
+  119  get fetch
+  120  git fetch
+  121  git checkout - t origin/master
+  122  git checkout -t origin/master
+  123  git checkout -t master
+  124  git checkout -t origin master
+  125  git checkout -b master
+  126  git checkout master
+  127  git clone -b master https://github.com/fabiogrod/estudos.git
+  128  git clone -C . master https://github.com/fabiogrod/estudos.git
+  129  git clone -C . master https://github.com/fabiogrod/estudos.git
+  130  git clone -Cb . master https://github.com/fabiogrod/estudos.git
+  131  git pull
+  132  git remote rm master
+  133  git remote rm master
+  134  history
+  135  git remote rm -b master
+  136  git remote remove master
+  137  git remote remove -b master
+  138  git checkout
+  139* 
+  140  git bracn -vv
+  141  git brach -vv
+  142  git branch -vv
+  143  git branch -vvse IPv6 addresses only
+  144      --filter <args>       object filtering
+  145      --remote-submodules   any cloned submodules will use their remote-tracking branch
+  146      --sparse              initialize sparse-checkout file to include only files at root
+  147  echo history
+  148  echo > history
+  149  history
+  150  history >> history.txt 
+  151  git remote rm master
+  152  git branch master
+  153  git remote remove -b master
+  154  git branch -d master
+  155  git push origin master
+  156  git push origin :master
+  157  git add pull origin main
+  158  git pull origin main
+  159  git status
+  160  git add .
+  161  git commit -m "Projeto criado"
+  162  git push -u orgigin master
+  163  git push -u origin master
+  164  git push origin :master
+  165  rm .git
+  166  rmdir .git
+  167  rmdir -f .git
+  168  rmdir --help
+  169  rmdir --help
+  170  rm -rf .git
+  171  ls
+  172  dir
+  173  git init
+  174  git config --list
+  175  git config --global user.name "fabiogrod"
+  176  git config --global user.email "fabiogrimello@gmail.com"
+  177  git remote add origin https://github.com/fabiogrod/estudos.git
+  178  git pull origin main
+  179  history >> history.txt 
